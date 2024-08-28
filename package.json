@@ -1,0 +1,14 @@
+{
+	"name": "fe-interview",
+	"description": "前端面试相关整理记录",
+	"scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  },
+	"devDependencies": {
+		"rspress": "^1.28.2",
+		"typescript": "^5.5.4",
+		"ts-node": "^10.9.2"
+	}
+}
